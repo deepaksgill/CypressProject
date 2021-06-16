@@ -1,0 +1,7 @@
+{
+    "$schema": "https://json.schemastore.org/jsconfig",
+    "baseUrl":"https://iodinesoftware.com/",
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "chromeWebSecurity": false   
+}
